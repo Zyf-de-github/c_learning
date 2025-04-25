@@ -1,0 +1,3 @@
+﻿  test.c
+D:\my_study_need\vs2022\code\c_study\11_21_work\11_21_work\test.c(9,2): warning C4013: “gets”未定义；假设外部返回 int
+  11_21_work.vcxproj -> D:\my_study_need\vs2022\code\c_study\11_21_work\x64\Debug\11_21_work.exe

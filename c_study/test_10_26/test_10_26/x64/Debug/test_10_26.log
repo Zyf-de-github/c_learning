@@ -1,0 +1,3 @@
+﻿  test.c
+D:\my_study_need\vs2022\code\c_study\test_10_26\test_10_26\test.c(1,1): warning C4828: 文件包含在偏移 0xe6b 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test_10_26.vcxproj -> D:\my_study_need\vs2022\code\c_study\test_10_26\x64\Debug\test_10_26.exe

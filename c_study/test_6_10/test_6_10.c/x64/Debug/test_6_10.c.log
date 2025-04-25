@@ -1,0 +1,3 @@
+﻿  test.c
+D:\vs2022\code\test_6_10.c\test_6_10.c\test.c(1,1): warning C4828: 文件包含在偏移 0x49d 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test_6_10.c.vcxproj -> D:\vs2022\code\test_6_10.c\x64\Debug\test_6_10.c.exe

@@ -1,0 +1,4 @@
+﻿  contact.c
+D:\my_study_need\vs2022\code\c_study\Project_AI_7_9\Project_AI_7_9\contact.c(27,10): warning C4098: “calculated”:“void”函数返回值
+D:\my_study_need\vs2022\code\c_study\Project_AI_7_9\Project_AI_7_9\contact.c(34,10): warning C4098: “updata”:“void”函数返回值
+  Project_AI_7_9.vcxproj -> D:\my_study_need\vs2022\code\c_study\Project_AI_7_9\x64\Debug\Project_AI_7_9.exe
