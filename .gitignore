@@ -1,0 +1,51 @@
+# ========== 通用 ==========
+*.obj
+*.exe
+*.log
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# ========== VS 工程文件 ==========
+*.sln
+*.vcxproj*
+*.vcproj*
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.cache
+*.opensdf
+*.tlog
+*.lastbuildstate
+
+# 编译输出目录
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
+x64/
+*.dll
+*.lib
+*.exp
+
+# CMake 构建目录（如果用 CMake 的话）
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 临时文件
+*.tmp
+*.log
+*.vs/
+
+# 保留源代码和头文件
+!*.cpp
+!*.c
+!*.h
+!*.hpp
