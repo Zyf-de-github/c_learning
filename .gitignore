@@ -4,6 +4,7 @@
 *.log
 *.user
 *.suo
+*.docx
 *.userosscache
 *.sln.docstates
 *.VC.db
