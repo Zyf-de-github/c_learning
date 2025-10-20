@@ -1,6 +1,6 @@
 # c_learning
-This is the repository related to my learning of C language  
-It contains all the items I wrote
+This is the repository related to my learning of C language.
+It contains all the items I wrote.
 
 ## project
 - 三子棋 一个简单的三子棋游戏
