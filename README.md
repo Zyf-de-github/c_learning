@@ -1,6 +1,5 @@
 # c_learning
-This is the repository related to my learning of C language.
-It contains all the items I wrote.
+该仓库记录了从头如何一步一步入门学习c语言的相关内容
 
 ## project
 - 三子棋 一个简单的三子棋游戏
